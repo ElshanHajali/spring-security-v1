@@ -6,7 +6,7 @@ Different branches represent one level up security implementation.
 Simple creation of UserDetails manually and saving in the InMemoryDetailsService
 
 # v1 branch
-Custom implementation of ServiceDetails and ServiceDetailsService, working with database
+Custom implementation of UserDetails and UserDetailsService, working with database
 
 # v2 branch
 Creating custom security hierarch. 
